@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="G:/资源/Java项目/大学生选课系统/系统工程/ChooseCourse/lib/皮肤包/a03-laf-3.0.jar"/>
+	<classpathentry kind="lib" path="G:/资源/Java项目/大学生选课系统/系统工程/ChooseCourse/lib/皮肤包/JTattoo.jar"/>
+	<classpathentry kind="lib" path="G:/资源/Java项目/大学生选课系统/系统工程/ChooseCourse/lib/皮肤包/liquidlnf.jar"/>
+	<classpathentry kind="lib" path="G:/资源/Java项目/大学生选课系统/系统工程/ChooseCourse/lib/皮肤包/nimrodlf-1.0b.jar"/>
+	<classpathentry kind="lib" path="G:/资源/Java项目/大学生选课系统/系统工程/ChooseCourse/lib/皮肤包/OfficeLnFs_2.7.jar"/>
+	<classpathentry kind="lib" path="G:/资源/Java项目/大学生选课系统/系统工程/ChooseCourse/lib/皮肤包/PgsLookAndFeel-jide.jar"/>
+	<classpathentry kind="lib" path="G:/资源/Java项目/大学生选课系统/系统工程/ChooseCourse/lib/皮肤包/quaqua.jar"/>
+	<classpathentry kind="lib" path="G:/资源/Java项目/大学生选课系统/系统工程/ChooseCourse/lib/皮肤包/substance.jar"/>
+	<classpathentry kind="lib" path="G:/资源/Java项目/大学生选课系统/系统工程/ChooseCourse/lib/mysql-connector-java-3.1.13-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
